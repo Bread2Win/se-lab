@@ -32,6 +32,8 @@ public class TorpedoStore {
 
   public boolean fire(int numberOfTorpedos){
 
+    //removed unused error
+
     boolean success = false;
 
     // simulate random overheating of the launcher bay which prevents firing
